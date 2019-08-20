@@ -1,0 +1,9 @@
+export const NAV_HOME = 'homeNavigator';
+export const VIEW_HOME = 'home';
+export const VIEW_SAVED = 'saved';
+export const VIEW_SETTINGS = 'settings';
+export const VIEW_FEEDBACK = 'feedback';
+export const VIEW_PRIVACY_POLICY = 'privacyPolicy';
+export const VIEW_ABOUT = 'about';
+export const VIEW_SEARCH = 'search';
+export const VIEW_WORD_VIEW = 'wordView';

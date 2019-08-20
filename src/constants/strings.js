@@ -1,0 +1,13 @@
+export const STR_SAVED = 'Saved';
+export const STR_SETTINGS = 'Settings';
+export const STR_SHARE = 'Share this app';
+export const STR_RATEUS = 'Rate us';
+export const STR_FEEDBACK = 'Feedback';
+export const STR_PRIVACY_POLICY = 'Privacy Policy';
+export const STR_ABOUT = 'About';
+export const STR_NOTIFICATIONS = 'Notifications';
+export const STR_PHONEOTICS = 'Phoneotics';
+export const STR_SEARCH_AGARATHI = 'Search Agarathi';
+export const TAMIL_EXPLANATION = 'விளக்கம்';
+export const TAMIL_LEARNING = 'கற்றல்';
+export const TAMIL_ETYMOLOGY = 'தோற்றம்';

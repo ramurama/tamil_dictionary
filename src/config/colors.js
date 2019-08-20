@@ -1,0 +1,22 @@
+export const COLOR_BG_LIGHT = '#F6F8FF';
+export const COLOR_BG_DARK = '#1C1C1E';
+export const COLOR_BG_DARK_2 = '#000000';
+export const COLOR_BG_DARK_3 = '#37363B';
+export const COLOR_SEPERATOR_LIGHT = '#D8D8D8';
+export const COLOR_SEPERATOR_DARK = '#D8D8D8';
+export const COLOR_DRAWER_TEXT_LIGHT = '#000000';
+export const COLOR_DRAWER_TEXT_DARK = '#FFFFFF';
+export const COLOR_TITLE_TEXT_LIGHT = '#000000';
+export const COLOR_TITLE_TEXT_DARK = '#FFFFFF';
+export const COLOR_TEXT_LIGHT = '#000000';
+export const COLOR_TEXT_DARK = '#FFFFFF';
+export const COLOR_PLACEHOLDER_LIGHT = '#767A7E';
+export const COLOR_TEXT_GREY = '#707070';
+export const COLOR_WORD_ACTION_BG_LIGHT = '#F2F4FA';
+export const COLOR_WORD_ACTION_BG_DARK = '#37363B';
+export const COLOR_THEME_LIGHT = '#10ADD1';
+export const COLOR_THEME_DARK = '#FFFFFF';
+
+export const COLOR_SWITCH_GREEN = '#4CD964';
+export const COLOR_SUBTITLE = '#A2B2C6';
+export const COLOR_DELETE_BG = '#F44336';
